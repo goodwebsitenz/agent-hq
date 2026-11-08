@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T12:58:29+00:00",
+  "updated": "2026-11-08T12:58:34+00:00",
   "files": [
     {
       "name": "v4 vs original — side by side",
@@ -35,6 +35,15 @@
       "size": 4232252,
       "meta": "14.1s · 1080p24 · stereo · −16.3 LUFS · 4.2 MB",
       "note": "Five shots, three hard cuts, close-up on the face. Articulated 8-part fox rig with knee joints, lids, brows and a hinged jaw driven by Rhubarb. Snail voiced separately.",
+      "added": "2026-11-08"
+    },
+    {
+      "name": "Pip and the Snail — thumbnail",
+      "url": "files/thumbnail.jpg",
+      "kind": "image",
+      "size": 84781,
+      "meta": "1920×1080 · 83 KB",
+      "note": "Close-up frame with title text.",
       "added": "2026-11-08"
     },
     {
