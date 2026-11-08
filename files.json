@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:23:36+00:00",
+  "updated": "2026-11-08T14:23:40+00:00",
   "files": [
     {
       "name": "The Cat and the Clever Mouse — Episode 1",
@@ -8,15 +8,6 @@
       "size": 3023368,
       "meta": "20.0s · 1080p24 · h264 · -16.1 LUFS",
       "note": "First full episode. Narrated by af_heart (approved), so no lip sync needed. 5 shots, 4 hard cuts, iris out. Original rigs, background, MIDI score and SFX all generated locally. Free/offline throughout.",
-      "added": "2026-11-08"
-    },
-    {
-      "name": "Narration A — George (warm British male)",
-      "url": "files/nar_A_george.mp3",
-      "kind": "audio",
-      "size": 307628,
-      "meta": "12.8s · Kokoro · -18.4 LUFS",
-      "note": "Storyteller version. 'A cat chased a little mouse along the sunny footpath. The mouse was quick. The cat was sure he would catch him. But the mouse was faster than he looked.'",
       "added": "2026-11-08"
     },
     {
