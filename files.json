@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T12:09:31+00:00",
+  "updated": "2026-11-08T12:09:36+00:00",
   "files": [
+    {
+      "name": "Pip's Fireflies — subtitles",
+      "url": "files/pip_fireflies.srt",
+      "kind": "subs",
+      "size": 157,
+      "meta": "SRT · 2 cues",
+      "note": "Drop-in captions for the YouTube upload.",
+      "added": "2026-11-08"
+    },
     {
       "name": "Pip's Fireflies (v2 re-render)",
       "url": "files/pip_fireflies.mp4",
