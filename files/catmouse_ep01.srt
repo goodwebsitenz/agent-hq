@@ -1,0 +1,16 @@
+1
+00:00:00,600 --> 00:00:03,599
+A cat chased a little mouse along the sunny footpath.
+
+2
+00:00:04,998 --> 00:00:06,261
+The mouse was quick.
+
+3
+00:00:09,461 --> 00:00:11,353
+The cat was sure he would catch him.
+
+4
+00:00:12,554 --> 00:00:14,733
+But the mouse was faster than he looked.
+
