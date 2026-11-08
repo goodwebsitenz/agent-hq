@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T13:01:29+00:00",
+  "updated": "2026-11-08T13:19:29+00:00",
   "files": [
+    {
+      "name": "Voice test A — Puck / Bella",
+      "url": "files/test_A.mp3",
+      "kind": "audio",
+      "size": 172268,
+      "meta": "7.1s · MP3 192k · −15.9 LUFS",
+      "note": "Cat am_puck 110 Hz — bright, energetic, cheekiest of the three. Mouse af_bella 197 Hz. Widest pitch gap at 87 Hz, easiest for a 3-6 year old to follow who is talking.",
+      "added": "2026-11-08"
+    },
     {
       "name": "Pip and the Snail — v4 (HyperFrames + Rhubarb)",
       "url": "files/fox_and_snail_v4.mp4",
