@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T13:19:38+00:00",
+  "updated": "2026-11-08T13:32:47+00:00",
   "files": [
+    {
+      "name": "Voice test C2 — ACTED (Fenrir / Jessica)",
+      "url": "files/test_C2_acted.mp3",
+      "kind": "audio",
+      "size": 198188,
+      "meta": "8.2s · directed · breath + beat timing",
+      "note": "Same two voices as test C, but directed: per-beat rate, pitch lift with formant preservation, stressed words +2-4 dB, two real inhales, exact pauses. Cat pitch range +41%, mouse +29% brighter.",
+      "added": "2026-11-08"
+    },
     {
       "name": "Voice test C — Fenrir / Jessica",
       "url": "files/test_C.mp3",
