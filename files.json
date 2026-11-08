@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:23:24+00:00",
+  "updated": "2026-11-08T14:23:28+00:00",
   "files": [
     {
       "name": "The Cat and the Clever Mouse — Episode 1",
@@ -8,15 +8,6 @@
       "size": 3023368,
       "meta": "20.0s · 1080p24 · h264 · -16.1 LUFS",
       "note": "First full episode. Narrated by af_heart (approved), so no lip sync needed. 5 shots, 4 hard cuts, iris out. Original rigs, background, MIDI score and SFX all generated locally. Free/offline throughout.",
-      "added": "2026-11-08"
-    },
-    {
-      "name": "Pip and the Snail — v4 (HyperFrames + Rhubarb)",
-      "url": "files/fox_and_snail_v4.mp4",
-      "kind": "video",
-      "size": 4232252,
-      "meta": "14.1s · 1080p24 · stereo · −16.3 LUFS · 4.2 MB",
-      "note": "Five shots, three hard cuts, close-up on the face. Articulated 8-part fox rig with knee joints, lids, brows and a hinged jaw driven by Rhubarb. Snail voiced separately.",
       "added": "2026-11-08"
     },
     {
