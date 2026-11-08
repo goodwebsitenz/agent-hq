@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-08T14:23:11+00:00",
+  "updated": "2026-11-08T14:23:16+00:00",
   "files": [
-    {
-      "name": "Voice test C — Fenrir / Jessica",
-      "url": "files/test_C.mp3",
-      "kind": "audio",
-      "size": 177452,
-      "meta": "7.3s · MP3 192k · −16.0 LUFS",
-      "note": "Cat am_fenrir 133 Hz, mouse af_jessica 205 Hz — two high-energy voices, Jessica is the fastest talker in the pool. Fenrir is hot and needed peak-capping.",
-      "added": "2026-11-08"
-    },
     {
       "name": "Voice test B — George / Isabella",
       "url": "files/test_B.mp3",
