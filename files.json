@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:12:27+00:00",
+  "updated": "2026-11-08T14:20:13+00:00",
   "files": [
     {
       "name": "Voice test E — Bark with [laughs] cue",
@@ -53,6 +53,15 @@
       "size": 172268,
       "meta": "7.1s · MP3 192k · −15.9 LUFS",
       "note": "Cat am_puck 110 Hz — bright, energetic, cheekiest of the three. Mouse af_bella 197 Hz. Widest pitch gap at 87 Hz, easiest for a 3-6 year old to follow who is talking.",
+      "added": "2026-11-08"
+    },
+    {
+      "name": "The Cat and the Clever Mouse — Episode 1",
+      "url": "files/catmouse_ep01.mp4",
+      "kind": "video",
+      "size": 3023368,
+      "meta": "20.0s · 1080p24 · h264 · -16.1 LUFS",
+      "note": "First full episode. Narrated by af_heart (approved), so no lip sync needed. 5 shots, 4 hard cuts, iris out. Original rigs, background, MIDI score and SFX all generated locally. Free/offline throughout.",
       "added": "2026-11-08"
     },
     {
