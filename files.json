@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:12:17+00:00",
+  "updated": "2026-11-08T14:12:22+00:00",
   "files": [
     {
       "name": "Voice test E — Bark with [laughs] cue",
@@ -62,6 +62,15 @@
       "size": 4232252,
       "meta": "14.1s · 1080p24 · stereo · −16.3 LUFS · 4.2 MB",
       "note": "Five shots, three hard cuts, close-up on the face. Articulated 8-part fox rig with knee joints, lids, brows and a hinged jaw driven by Rhubarb. Snail voiced separately.",
+      "added": "2026-11-08"
+    },
+    {
+      "name": "Narration B — Heart (warm female)",
+      "url": "files/nar_B_heart.mp3",
+      "kind": "audio",
+      "size": 245420,
+      "meta": "10.2s · Kokoro · -18.3 LUFS",
+      "note": "Same narration, warmer female storyteller. Fastest read of the three.",
       "added": "2026-11-08"
     },
     {
