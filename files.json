@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:23:31+00:00",
+  "updated": "2026-11-08T14:23:36+00:00",
   "files": [
     {
       "name": "The Cat and the Clever Mouse — Episode 1",
@@ -8,15 +8,6 @@
       "size": 3023368,
       "meta": "20.0s · 1080p24 · h264 · -16.1 LUFS",
       "note": "First full episode. Narrated by af_heart (approved), so no lip sync needed. 5 shots, 4 hard cuts, iris out. Original rigs, background, MIDI score and SFX all generated locally. Free/offline throughout.",
-      "added": "2026-11-08"
-    },
-    {
-      "name": "Narration B — Heart (warm female)",
-      "url": "files/nar_B_heart.mp3",
-      "kind": "audio",
-      "size": 245420,
-      "meta": "10.2s · Kokoro · -18.3 LUFS",
-      "note": "Same narration, warmer female storyteller. Fastest read of the three.",
       "added": "2026-11-08"
     },
     {
