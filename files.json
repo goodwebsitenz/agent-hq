@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:20:13+00:00",
+  "updated": "2026-11-08T14:20:17+00:00",
   "files": [
     {
       "name": "Voice test E — Bark with [laughs] cue",
@@ -98,6 +98,15 @@
       "size": 307628,
       "meta": "12.8s · Kokoro · -18.4 LUFS",
       "note": "Storyteller version. 'A cat chased a little mouse along the sunny footpath. The mouse was quick. The cat was sure he would catch him. But the mouse was faster than he looked.'",
+      "added": "2026-11-08"
+    },
+    {
+      "name": "Episode 1 — subtitles",
+      "url": "files/catmouse_ep01.srt",
+      "kind": "subs",
+      "size": 301,
+      "meta": "SRT · 4 cues",
+      "note": "Timed to the measured narration spans.",
       "added": "2026-11-08"
     }
   ]
