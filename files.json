@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T12:09:25+00:00",
+  "updated": "2026-11-08T12:09:31+00:00",
   "files": [
+    {
+      "name": "Pip's Fireflies (v2 re-render)",
+      "url": "files/pip_fireflies.mp4",
+      "kind": "video",
+      "size": 2943630,
+      "meta": "15s · 1080p24 · stereo · −16 LUFS",
+      "note": "The first proof of concept, re-rendered after the grass-blade bug fix.",
+      "added": "2026-11-08"
+    },
     {
       "name": "Pip and the Snail — subtitles",
       "url": "files/pip_and_the_snail.srt",
