@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:20:17+00:00",
+  "updated": "2026-11-08T14:20:21+00:00",
   "files": [
     {
       "name": "Voice test E — Bark with [laughs] cue",
@@ -98,6 +98,15 @@
       "size": 307628,
       "meta": "12.8s · Kokoro · -18.4 LUFS",
       "note": "Storyteller version. 'A cat chased a little mouse along the sunny footpath. The mouse was quick. The cat was sure he would catch him. But the mouse was faster than he looked.'",
+      "added": "2026-11-08"
+    },
+    {
+      "name": "Episode 1 — thumbnail",
+      "url": "files/catmouse_ep01_thumb.jpg",
+      "kind": "image",
+      "size": 52856,
+      "meta": "1280x720",
+      "note": "Surprise beat, frame at 16.1s.",
       "added": "2026-11-08"
     },
     {
