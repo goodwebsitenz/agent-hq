@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-08T13:01:10+00:00",
+  "updated": "2026-11-08T13:01:13+00:00",
   "files": [
-    {
-      "name": "Pip's Fireflies (v2 re-render)",
-      "url": "files/pip_fireflies.mp4",
-      "kind": "video",
-      "size": 2943630,
-      "meta": "15s · 1080p24 · stereo · −16 LUFS",
-      "note": "The first proof of concept, re-rendered after the grass-blade bug fix.",
-      "added": "2026-11-08"
-    },
     {
       "name": "Pip and the Snail — v4 (HyperFrames + Rhubarb)",
       "url": "files/fox_and_snail_v4.mp4",
