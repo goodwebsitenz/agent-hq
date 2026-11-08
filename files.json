@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T14:02:37+00:00",
+  "updated": "2026-11-08T14:08:08+00:00",
   "files": [
+    {
+      "name": "Voice test E — Bark with [laughs] cue",
+      "url": "files/test_E_laugh.mp3",
+      "kind": "audio",
+      "size": 344492,
+      "meta": "14.3s · experimental",
+      "note": "Cat line rewritten as 'Hey, Mouse! [laughs] I'm going to catch you!'. Bark inserted two hesitation sounds ('Um', 'Uh') and dropped the word 'you', so the cue is NOT clean on bark-small. Listen at ~1-2s and judge whether the 'Uh' is a usable chuckle. Cat preset here is speaker_6, not speaker_3 as in test D.",
+      "added": "2026-11-08"
+    },
     {
       "name": "Voice test D — BARK (expressive engine)",
       "url": "files/test_D_bark.mp3",
