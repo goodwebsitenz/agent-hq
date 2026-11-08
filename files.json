@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T12:09:19+00:00",
+  "updated": "2026-11-08T12:09:25+00:00",
   "files": [
+    {
+      "name": "Pip and the Snail — subtitles",
+      "url": "files/pip_and_the_snail.srt",
+      "kind": "subs",
+      "size": 208,
+      "meta": "SRT · 4 cues",
+      "note": "Drop-in captions for the YouTube upload.",
+      "added": "2026-11-08"
+    },
     {
       "name": "Pip and the Snail",
       "url": "files/pip_and_the_snail.mp4",
