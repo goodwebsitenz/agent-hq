@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-08T14:23:03+00:00",
+  "updated": "2026-11-08T14:23:07+00:00",
   "files": [
-    {
-      "name": "Voice test D — BARK (expressive engine)",
-      "url": "files/test_D_bark.mp3",
-      "kind": "audio",
-      "size": 197036,
-      "meta": "8.1s · MIT · faster run faster",
-      "note": "Same three lines on Bark instead of Kokoro. Cat 113 Hz median, mouse 248 Hz — 135 Hz apart. Pitch range 308/369 Hz vs 148/152 on Kokoro, so roughly double the melodic movement. Loudness matched to C2 (-22.2 LUFS) for a fair A/B. Costs ~2-3 min per line on CPU.",
-      "added": "2026-11-08"
-    },
     {
       "name": "Voice test C2 — ACTED (Fenrir / Jessica)",
       "url": "files/test_C2_acted.mp3",
