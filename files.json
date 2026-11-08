@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T12:58:25+00:00",
+  "updated": "2026-11-08T12:58:29+00:00",
   "files": [
     {
       "name": "v4 vs original — side by side",
@@ -44,6 +44,15 @@
       "size": 208,
       "meta": "SRT · 4 cues",
       "note": "Drop-in captions for the YouTube upload.",
+      "added": "2026-11-08"
+    },
+    {
+      "name": "Pip and the Snail v4 — subtitles",
+      "url": "files/fox_and_snail.srt",
+      "kind": "subs",
+      "size": 208,
+      "meta": "SRT · 4 cues",
+      "note": "Cut from the exact TTS phrase boundaries, not ASR.",
       "added": "2026-11-08"
     },
     {
