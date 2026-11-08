@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-08T12:58:34+00:00",
+  "updated": "2026-11-08T13:01:05+00:00",
   "files": [
-    {
-      "name": "v4 vs original — side by side",
-      "url": "files/comparison.mp4",
-      "kind": "video",
-      "size": 917515,
-      "meta": "14.1s · 1080p · 0.9 MB",
-      "note": "Left: HyperFrames + Rhubarb. Right: the original skia renderer. Same story beat, same sound design approach.",
-      "added": "2026-11-08"
-    },
     {
       "name": "Pip's Fireflies — subtitles",
       "url": "files/pip_fireflies.srt",
