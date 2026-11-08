@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-08T14:23:16+00:00",
+  "updated": "2026-11-08T14:23:20+00:00",
   "files": [
-    {
-      "name": "Voice test B — George / Isabella",
-      "url": "files/test_B.mp3",
-      "kind": "audio",
-      "size": 204524,
-      "meta": "8.5s · MP3 192k · −16.2 LUFS",
-      "note": "Cat bm_george 145 Hz — warm British storyteller. Mouse bf_isabella 202 Hz. Softest and most nursery-friendly; narrower 57 Hz gap.",
-      "added": "2026-11-08"
-    },
     {
       "name": "Voice test A — Puck / Bella",
       "url": "files/test_A.mp3",
