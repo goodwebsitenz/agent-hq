@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T13:01:17+00:00",
+  "updated": "2026-11-08T13:01:21+00:00",
   "files": [
     {
       "name": "Pip and the Snail — v4 (HyperFrames + Rhubarb)",
@@ -8,15 +8,6 @@
       "size": 4232252,
       "meta": "14.1s · 1080p24 · stereo · −16.3 LUFS · 4.2 MB",
       "note": "Five shots, three hard cuts, close-up on the face. Articulated 8-part fox rig with knee joints, lids, brows and a hinged jaw driven by Rhubarb. Snail voiced separately.",
-      "added": "2026-11-08"
-    },
-    {
-      "name": "Pip and the Snail — subtitles",
-      "url": "files/pip_and_the_snail.srt",
-      "kind": "subs",
-      "size": 208,
-      "meta": "SRT · 4 cues",
-      "note": "Drop-in captions for the YouTube upload.",
       "added": "2026-11-08"
     },
     {
