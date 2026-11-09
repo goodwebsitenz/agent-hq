@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T08:33:52+00:00",
+  "updated": "2026-11-09T08:33:58+00:00",
   "files": [
     {
       "name": "The Big Little Puddle — full cartoon",
@@ -8,6 +8,15 @@
       "size": 2767678,
       "meta": "30.0s · 1080p24 · h264 · -16.1 LUFS",
       "note": "Milo (am_puck, 137 Hz) and Nibbles (af_bella, 218 Hz). Hierarchical biped rig, 34 bones, joint gap 0.000px verified across 181 frames. Rhubarb lip sync, MIDI score, footsteps/jump/laugh built from scratch.",
+      "added": "2026-11-09"
+    },
+    {
+      "name": "Rig test — walk, wave, jump",
+      "url": "files/rigtest.mp4",
+      "kind": "video",
+      "size": 633855,
+      "meta": "5.0s · 1080p24",
+      "note": "The proof pass: both characters walking, Nibbles idle, Milo waving then jumping. Joint integrity measured at 121 sampled frames, max gap 0.000px, no bone changed length.",
       "added": "2026-11-09"
     },
     {
