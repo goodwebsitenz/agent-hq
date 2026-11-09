@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T08:34:02+00:00",
+  "updated": "2026-11-09T08:34:07+00:00",
   "files": [
     {
       "name": "The Big Little Puddle — full cartoon",
@@ -17,6 +17,15 @@
       "size": 633855,
       "meta": "5.0s · 1080p24",
       "note": "The proof pass: both characters walking, Nibbles idle, Milo waving then jumping. Joint integrity measured at 121 sampled frames, max gap 0.000px, no bone changed length.",
+      "added": "2026-11-09"
+    },
+    {
+      "name": "Puddle — thumbnail",
+      "url": "files/puddle_thumb.jpg",
+      "kind": "image",
+      "size": 52943,
+      "meta": "1280x720",
+      "note": "The surprise beat at 2.6s.",
       "added": "2026-11-09"
     },
     {
