@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-10T10:46:24+00:00",
+  "updated": "2026-11-10T10:46:29+00:00",
   "files": [
-    {
-      "name": "Test A — character design",
-      "url": "files/design.png",
-      "kind": "image",
-      "size": 110476,
-      "meta": "1920x1080 PNG · 2.4x scale",
-      "note": "Milo and Nibbles standing side by side at large size. Curved bezier head, torso and limbs with soft shading, one continuous outline, no visible joints.",
-      "added": "2026-11-10"
-    },
     {
       "name": "Lily Pad Run — frog short",
       "url": "files/frog.mp4",
