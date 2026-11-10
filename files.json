@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-10T10:46:46+00:00",
+  "updated": "2026-11-10T10:47:38+00:00",
   "files": [
     {
       "name": "Agent HQ (portable) — install package",
       "url": "files/agent-hq-portable.zip",
       "kind": "doc",
       "size": 40799,
-      "meta": "40 KB · zip · page + local server",
+      "meta": "zip · page + local server",
       "note": "Isometric HQ page + stdlib server for any Hermes install: a desk per profile, one-click switch, a create-agent form on the empty desks, and this file cabinet. Unzip and read INSTALL.md.",
       "added": "2026-11-10"
     }
