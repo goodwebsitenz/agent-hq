@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-10T10:46:19+00:00",
+  "updated": "2026-11-10T10:46:24+00:00",
   "files": [
-    {
-      "name": "Test B — movement (5s)",
-      "url": "files/testB.mp4",
-      "kind": "video",
-      "size": 844903,
-      "meta": "5.0s · 1080p24 · h264 · silent",
-      "note": "Milo walks, bends his knees, waves, anticipates and jumps. Joints sampled on six rendered frames: 0 joints sitting on ink, max gap 0.000px.",
-      "added": "2026-11-10"
-    },
     {
       "name": "Test A — character design",
       "url": "files/design.png",
