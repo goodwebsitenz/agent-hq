@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-10T05:14:01+00:00",
+  "updated": "2026-11-10T07:00:53+00:00",
   "files": [
-    {
-      "name": "Test A — character design",
-      "url": "files/design.png",
-      "kind": "image",
-      "size": 110476,
-      "meta": "1920x1080 PNG · 2.4x scale",
-      "note": "Milo and Nibbles standing side by side at large size. Curved bezier head, torso and limbs with soft shading, one continuous outline, no visible joints.",
-      "added": "2026-11-10"
-    },
     {
       "name": "Test C — facial expressions",
       "url": "files/expressions.png",
@@ -29,12 +20,30 @@
       "added": "2026-11-10"
     },
     {
+      "name": "Test A — character design",
+      "url": "files/design.png",
+      "kind": "image",
+      "size": 110476,
+      "meta": "1920x1080 PNG · 2.4x scale",
+      "note": "Milo and Nibbles standing side by side at large size. Curved bezier head, torso and limbs with soft shading, one continuous outline, no visible joints.",
+      "added": "2026-11-10"
+    },
+    {
       "name": "Lily Pad Run — frog short",
       "url": "files/frog.mp4",
       "kind": "video",
       "size": 4412669,
       "meta": "16.0s · 1080p24 · h264 · -16.4 LUFS",
       "note": "Saturday-morning frog surfing a lily pad down the river. Tongue-flicks a fly (FATALITY), rides on, and goes over the waterfall in the distance. Orchestral score, river and waterfall effects, and the announcer voice all built locally.",
+      "added": "2026-11-10"
+    },
+    {
+      "name": "Lily Pad Run - Rigby2D version",
+      "url": "files/frog_river.mp4",
+      "kind": "video",
+      "size": 3857802,
+      "meta": "16s · 1080p24 · -16.4 LUFS",
+      "note": "Same beats and soundtrack as frog.mp4, rebuilt on a real skeletal rig (Rigby2D): leap, tongue catch, Fatality, land, drift into the distance, over the waterfall.",
       "added": "2026-11-10"
     }
   ]
