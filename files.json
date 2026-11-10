@@ -1,32 +1,77 @@
 {
-  "updated": "2026-11-09T09:44:13+00:00",
+  "updated": "2026-11-10T05:13:29+00:00",
   "files": [
     {
-      "name": "Test A — character design",
-      "url": "files/design.png",
-      "kind": "image",
-      "size": 110476,
-      "meta": "1920x1080 PNG · 2.4x scale",
-      "note": "Milo and Nibbles standing side by side at large size. Curved bezier head, torso and limbs with soft shading, one continuous outline, no visible joints.",
-      "added": "2026-11-09"
-    },
-    {
-      "name": "Test C — facial expressions",
-      "url": "files/expressions.png",
-      "kind": "image",
-      "size": 120112,
-      "meta": "1920x1080 PNG · head close-ups",
-      "note": "Smile, surprised, laughing and speaking for both characters, clipped to head close-ups so the mouth shapes can be examined.",
-      "added": "2026-11-09"
-    },
-    {
-      "name": "Test B — movement (5s)",
-      "url": "files/testB.mp4",
+      "name": "Lily Pad Run — frog short",
+      "url": "files/lily_pad_run.mp4",
       "kind": "video",
-      "size": 844903,
-      "meta": "5.0s · 1080p24 · h264 · silent",
-      "note": "Milo walks, bends his knees, waves, anticipates and jumps. Joints sampled on six rendered frames: 0 joints sitting on ink, max gap 0.000px.",
+      "size": 4412669,
+      "meta": "16.0s · 1080p24 · h264 · -16.4 LUFS",
+      "note": "Saturday-morning frog surfing a lily pad down the river. Tongue-flicks a fly (FATALITY), rides on, and goes over the waterfall in the distance. Orchestral score and river/falls effects built locally; only spoken word is the announcer.",
+      "added": "2026-11-10"
+    },
+    {
+      "name": "The Big Little Puddle — full cartoon",
+      "url": "files/puddle.mp4",
+      "kind": "video",
+      "size": 2767678,
+      "meta": "30.0s · 1080p24 · h264 · -16.1 LUFS",
+      "note": "Milo (am_puck, 137 Hz) and Nibbles (af_bella, 218 Hz). Hierarchical biped rig, 34 bones, joint gap 0.000px verified across 181 frames. Rhubarb lip sync, MIDI score, footsteps/jump/laugh built from scratch.",
       "added": "2026-11-09"
+    },
+    {
+      "name": "Rig test — walk, wave, jump",
+      "url": "files/rigtest.mp4",
+      "kind": "video",
+      "size": 633855,
+      "meta": "5.0s · 1080p24",
+      "note": "The proof pass: both characters walking, Nibbles idle, Milo waving then jumping. Joint integrity measured at 121 sampled frames, max gap 0.000px, no bone changed length.",
+      "added": "2026-11-09"
+    },
+    {
+      "name": "Puddle — thumbnail",
+      "url": "files/puddle_thumb.jpg",
+      "kind": "image",
+      "size": 52943,
+      "meta": "1280x720",
+      "note": "The surprise beat at 2.6s.",
+      "added": "2026-11-09"
+    },
+    {
+      "name": "Puddle — subtitles",
+      "url": "files/puddle.srt",
+      "kind": "subs",
+      "size": 414,
+      "meta": "SRT · 7 cues",
+      "note": "Timed to the measured dialogue.",
+      "added": "2026-11-09"
+    },
+    {
+      "name": "The Cat and the Clever Mouse — Episode 1",
+      "url": "files/catmouse_ep01.mp4",
+      "kind": "video",
+      "size": 3023368,
+      "meta": "20.0s · 1080p24 · h264 · -16.1 LUFS",
+      "note": "First full episode. Narrated by af_heart (approved), so no lip sync needed. 5 shots, 4 hard cuts, iris out. Original rigs, background, MIDI score and SFX all generated locally. Free/offline throughout.",
+      "added": "2026-11-08"
+    },
+    {
+      "name": "Episode 1 — thumbnail",
+      "url": "files/catmouse_ep01_thumb.jpg",
+      "kind": "image",
+      "size": 52856,
+      "meta": "1280x720",
+      "note": "Surprise beat, frame at 16.1s.",
+      "added": "2026-11-08"
+    },
+    {
+      "name": "Episode 1 — subtitles",
+      "url": "files/catmouse_ep01.srt",
+      "kind": "subs",
+      "size": 301,
+      "meta": "SRT · 4 cues",
+      "note": "Timed to the measured narration spans.",
+      "added": "2026-11-08"
     }
   ]
 }
