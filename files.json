@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-10T07:00:53+00:00",
+  "updated": "2026-11-10T10:46:19+00:00",
   "files": [
-    {
-      "name": "Test C — facial expressions",
-      "url": "files/expressions.png",
-      "kind": "image",
-      "size": 120112,
-      "meta": "1920x1080 PNG · head close-ups",
-      "note": "Smile, surprised, laughing and speaking for both characters, clipped to head close-ups so the mouth shapes can be examined.",
-      "added": "2026-11-10"
-    },
     {
       "name": "Test B — movement (5s)",
       "url": "files/testB.mp4",
