@@ -1,4 +1,14 @@
 {
-  "updated": "2026-11-11T06:43:14+00:00",
-  "files": []
+  "updated": "2026-11-11T06:43:22+00:00",
+  "files": [
+    {
+      "name": "Lily Pad Run — Rive rebuild",
+      "url": "files/surf_frog_rive.mp4",
+      "kind": "video",
+      "size": 1378180,
+      "meta": "16s · 1920×1080 · 60fps",
+      "note": "Deforming vector (not cut-out puppets): cubic ease on every segment, squash-and-stretch about the feet, head lag, belly follow-through, splash + pad reaction on contact. Same audio bed as the original.",
+      "added": "2026-11-11"
+    }
+  ]
 }
