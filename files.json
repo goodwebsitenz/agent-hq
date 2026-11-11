@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T06:43:22+00:00",
+  "updated": "2026-11-11T06:43:30+00:00",
   "files": [
+    {
+      "name": "Lily Pad Run — before / after",
+      "url": "files/surf_frog_rive_compare.mp4",
+      "kind": "video",
+      "size": 1515039,
+      "meta": "16s · 1280×1440 · split",
+      "note": "Old skia cut-out (24fps) stacked over the Rive rebuild (60fps), same audio.",
+      "added": "2026-11-11"
+    },
     {
       "name": "Lily Pad Run — Rive rebuild",
       "url": "files/surf_frog_rive.mp4",
