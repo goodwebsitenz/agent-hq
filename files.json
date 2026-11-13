@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T04:49:26+00:00",
+  "updated": "2026-11-13T04:49:31+00:00",
   "files": [
     {
       "name": "Pip the Frog — Character Sheet V2",
@@ -17,6 +17,15 @@
       "size": 169347,
       "meta": "1600x1600 PNG",
       "note": "ChatGPT-generated art snapped to a 5-colour palette and auto-traced with vtracer. Seam between head and torso repaired, pupils recoloured to near-black.",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Pip the Frog - V4 rig parts",
+      "url": "files/PIP_V4_parts.png",
+      "kind": "image",
+      "size": 193197,
+      "meta": "1599x1066 PNG",
+      "note": "Six separately addressable parts: head, body, arm_l, arm_r, leg_l, leg_r. Each fully outlined so limbs can rotate without revealing holes.",
       "added": "2026-11-13"
     },
     {
