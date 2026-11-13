@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-13T06:00:50+00:00",
+  "updated": "2026-11-13T06:00:54+00:00",
   "files": [
-    {
-      "name": "Pip the Frog - rig diagnostic joints",
-      "url": "files/PIP_V4_diagnostic_joints.png",
-      "kind": "image",
-      "size": 118716,
-      "meta": "1200x1200 PNG",
-      "note": "Diagnostic render of the corrected rig: arm/hip pivots inside the torso, elbow cut lines, eyelid clip circles, limb bounds.",
-      "added": "2026-11-13"
-    },
     {
       "name": "Pip V5 - static C eyes closed",
       "url": "files/PIP_V5_static_C_eyes_closed.png",
