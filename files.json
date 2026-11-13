@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T05:18:30+00:00",
+  "updated": "2026-11-13T05:20:43+00:00",
   "files": [
     {
       "name": "Pip the Frog — Character Sheet V2",
@@ -23,9 +23,9 @@
       "name": "Pip the Frog - rig v2 corrected (blink + wave + elbow)",
       "url": "files/PIP_V4_rig_v2.mp4",
       "kind": "video",
-      "size": 581710,
+      "size": 582990,
       "meta": "3.0s · 1080x1080 · 24fps · h264",
-      "note": "Joint fixes: eyelid clip on untransformed parent, lid travel 48% so white crescent and eye ring survive, limbs bridged into the torso and drawn behind it, shoulder/hip pivots inside the body, arm split into upper+forearm for a gentle elbow.",
+      "note": "Joint fixes: eyelid clip on an untransformed parent, lid travel 48% so a white crescent and the eye ring survive, limbs bridged into the torso and drawn behind it, shoulder/hip pivots inside the body, arm split into upper+forearm for a gentle elbow. 5 exact palette colours.",
       "added": "2026-11-13"
     },
     {
