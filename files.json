@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T05:18:25+00:00",
+  "updated": "2026-11-13T05:18:30+00:00",
   "files": [
     {
       "name": "Pip the Frog — Character Sheet V2",
@@ -8,6 +8,15 @@
       "size": 387119,
       "meta": "2400x1750 PNG · 4 turnaround views · 8 expressions · rig map",
       "note": "Design refinement V2: one 3D-projected vector model at four yaws. 8 facial expressions off 14 channels. Awaiting visual approval.",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Pip the Frog - rig v2 key frames",
+      "url": "files/PIP_V4_rig_v2_sheet.png",
+      "kind": "image",
+      "size": 526338,
+      "meta": "1488x1064 PNG",
+      "note": "Six key frames from the corrected animation.",
       "added": "2026-11-13"
     },
     {
