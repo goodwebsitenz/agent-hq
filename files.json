@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-13T20:40:46+00:00",
+  "updated": "2026-11-13T20:40:50+00:00",
   "files": [
-    {
-      "name": "Pip V5 - layered rig (editable SVG)",
-      "url": "files/PIP_V5_rig.svg",
-      "kind": "doc",
-      "size": 38571,
-      "meta": "38,571 bytes / 1,254px viewBox / 6 path groups + face",
-      "note": "Back-to-front: hind legs, arms, torso, belly, head, facial features. Every part a closed Catmull-Rom Bezier path with its pivot; arms stored as point lists so the wave bends the geometry rather than hinging it.",
-      "added": "2026-11-13"
-    },
     {
       "name": "Pip V5 - animation key frames",
       "url": "files/PIP_V5_anim_sheet.png",
