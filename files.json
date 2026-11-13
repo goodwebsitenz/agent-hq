@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T04:22:57+00:00",
+  "updated": "2026-11-13T04:49:26+00:00",
   "files": [
     {
       "name": "Pip the Frog — Character Sheet V2",
@@ -8,6 +8,15 @@
       "size": 387119,
       "meta": "2400x1750 PNG · 4 turnaround views · 8 expressions · rig map",
       "note": "Design refinement V2: one 3D-projected vector model at four yaws. 8 facial expressions off 14 channels. Awaiting visual approval.",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Pip the Frog - V4 vector (ChatGPT art traced)",
+      "url": "files/PIP_V4_final.png",
+      "kind": "image",
+      "size": 169347,
+      "meta": "1600x1600 PNG",
+      "note": "ChatGPT-generated art snapped to a 5-colour palette and auto-traced with vtracer. Seam between head and torso repaired, pupils recoloured to near-black.",
       "added": "2026-11-13"
     },
     {
