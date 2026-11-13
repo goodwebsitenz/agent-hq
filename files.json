@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:00:32+00:00",
+  "updated": "2026-11-13T06:00:37+00:00",
   "files": [
     {
       "name": "Pip the Frog - rig v2 key frames",
@@ -53,6 +53,15 @@
       "size": 154615,
       "meta": "1600x1600 PNG",
       "note": "Validation render A: every component assembled. 1 connected component, no enclosed gaps, belly intact.",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Pip V5 - animation key frames",
+      "url": "files/PIP_V5_anim_sheet.png",
+      "kind": "image",
+      "size": 540054,
+      "meta": "1680x840 PNG / 8 frames",
+      "note": "Frames 0, 15, 18, 34, 42, 50, 58, 71: neutral, blink closing, shut, wave rising, peak, peak, settling, neutral.",
       "added": "2026-11-13"
     },
     {
