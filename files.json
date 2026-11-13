@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-13T20:40:42+00:00",
+  "updated": "2026-11-13T20:40:46+00:00",
   "files": [
-    {
-      "name": "Pip V5 - static A neutral",
-      "url": "files/PIP_V5_static_A_neutral.png",
-      "kind": "image",
-      "size": 154615,
-      "meta": "1600x1600 PNG",
-      "note": "Validation render A: every component assembled. 1 connected component, no enclosed gaps, belly intact.",
-      "added": "2026-11-13"
-    },
     {
       "name": "Pip V5 - layered rig (editable SVG)",
       "url": "files/PIP_V5_rig.svg",
