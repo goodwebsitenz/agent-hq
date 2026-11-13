@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T04:55:33+00:00",
+  "updated": "2026-11-13T04:55:39+00:00",
   "files": [
     {
       "name": "Pip the Frog — Character Sheet V2",
@@ -35,6 +35,15 @@
       "size": 193197,
       "meta": "1599x1066 PNG",
       "note": "Six separately addressable parts: head, body, arm_l, arm_r, leg_l, leg_r. Each fully outlined so limbs can rotate without revealing holes.",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Pip the Frog - V4 animation key frames",
+      "url": "files/PIP_V4_anim_sheet.png",
+      "kind": "image",
+      "size": 538998,
+      "meta": "1488x1064 PNG",
+      "note": "Six key frames from the rig test: rest, blink closing, blink closed, arm swinging up, wave peak, second blink.",
       "added": "2026-11-13"
     },
     {
