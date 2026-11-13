@@ -1,4 +1,14 @@
 {
-  "updated": "2026-11-13T20:40:59+00:00",
-  "files": []
+  "updated": "2026-11-13T20:41:13+00:00",
+  "files": [
+    {
+      "name": "Pip the Frog — Floating Downstream (12s test)",
+      "url": "files/PIP_stream_test.mp4",
+      "kind": "video",
+      "size": 3496483,
+      "meta": "12s · 1920x1080 · 24fps · h264 + AAC · −16 LUFS",
+      "note": "Pip drifts on his lily pad, hears a splash, asks 'Ooh! What's that?', listens, then points the way. Kokoro voice, Rhubarb lip sync, synthesised river and splashes. Rig V6.",
+      "added": "2026-11-13"
+    }
+  ]
 }
