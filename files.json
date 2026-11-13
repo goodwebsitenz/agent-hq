@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:00:15+00:00",
+  "updated": "2026-11-13T06:00:19+00:00",
   "files": [
     {
       "name": "Pip the Frog - rig v2 key frames",
@@ -26,6 +26,15 @@
       "size": 118716,
       "meta": "1200x1200 PNG",
       "note": "Diagnostic render of the corrected rig: arm/hip pivots inside the torso, elbow cut lines, eyelid clip circles, limb bounds.",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Pip V5 - static B arm raised",
+      "url": "files/PIP_V5_static_B_arm_raised.png",
+      "kind": "image",
+      "size": 153893,
+      "meta": "1600x1600 PNG",
+      "note": "Validation render B: waving arm at 27 deg. Shoulder socket is a disc centred on the pivot, so the joint stays sealed at every angle.",
       "added": "2026-11-13"
     },
     {
