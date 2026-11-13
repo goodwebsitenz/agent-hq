@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T04:55:39+00:00",
+  "updated": "2026-11-13T05:18:21+00:00",
   "files": [
     {
       "name": "Pip the Frog — Character Sheet V2",
@@ -8,6 +8,15 @@
       "size": 387119,
       "meta": "2400x1750 PNG · 4 turnaround views · 8 expressions · rig map",
       "note": "Design refinement V2: one 3D-projected vector model at four yaws. 8 facial expressions off 14 channels. Awaiting visual approval.",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Pip the Frog - rig v2 corrected (blink + wave + elbow)",
+      "url": "files/PIP_V4_rig_v2.mp4",
+      "kind": "video",
+      "size": 581710,
+      "meta": "3.0s · 1080x1080 · 24fps · h264",
+      "note": "Joint fixes: eyelid clip on untransformed parent, lid travel 48% so white crescent and eye ring survive, limbs bridged into the torso and drawn behind it, shoulder/hip pivots inside the body, arm split into upper+forearm for a gentle elbow.",
       "added": "2026-11-13"
     },
     {
