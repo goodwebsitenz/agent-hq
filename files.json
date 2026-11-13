@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-13T05:20:53+00:00",
+  "updated": "2026-11-13T05:33:43+00:00",
   "files": [
-    {
-      "name": "Pip the Frog — Character Sheet V2",
-      "url": "files/pip_v2_character_sheet.png",
-      "kind": "image",
-      "size": 387119,
-      "meta": "2400x1750 PNG · 4 turnaround views · 8 expressions · rig map",
-      "note": "Design refinement V2: one 3D-projected vector model at four yaws. 8 facial expressions off 14 channels. Awaiting visual approval.",
-      "added": "2026-11-13"
-    },
     {
       "name": "Pip the Frog - rig v2 key frames",
       "url": "files/PIP_V4_rig_v2_sheet.png",
@@ -36,69 +27,6 @@
       "meta": "1200x1200 PNG",
       "note": "Diagnostic render of the corrected rig: arm/hip pivots inside the torso, elbow cut lines, eyelid clip circles, limb bounds.",
       "added": "2026-11-13"
-    },
-    {
-      "name": "Pip the Frog - V4 vector (ChatGPT art traced)",
-      "url": "files/PIP_V4_final.png",
-      "kind": "image",
-      "size": 169347,
-      "meta": "1600x1600 PNG",
-      "note": "ChatGPT-generated art snapped to a 5-colour palette and auto-traced with vtracer. Seam between head and torso repaired, pupils recoloured to near-black.",
-      "added": "2026-11-13"
-    },
-    {
-      "name": "Pip the Frog - V4 rig test (blink + wave)",
-      "url": "files/PIP_V4_rig_test.mp4",
-      "kind": "video",
-      "size": 473793,
-      "meta": "3.0s · 1080x1080 · 24fps · h264",
-      "note": "Rig test on the traced V4 art. Blink from clipped lids, arm wave by rotation with a shoulder tuck behind the torso. Frames stepped deterministically.",
-      "added": "2026-11-13"
-    },
-    {
-      "name": "Pip the Frog - V4 rig parts",
-      "url": "files/PIP_V4_parts.png",
-      "kind": "image",
-      "size": 193197,
-      "meta": "1599x1066 PNG",
-      "note": "Six separately addressable parts: head, body, arm_l, arm_r, leg_l, leg_r. Each fully outlined so limbs can rotate without revealing holes.",
-      "added": "2026-11-13"
-    },
-    {
-      "name": "Pip the Frog - V4 animation key frames",
-      "url": "files/PIP_V4_anim_sheet.png",
-      "kind": "image",
-      "size": 538998,
-      "meta": "1488x1064 PNG",
-      "note": "Six key frames from the rig test: rest, blink closing, blink closed, arm swinging up, wave peak, second blink.",
-      "added": "2026-11-13"
-    },
-    {
-      "name": "Pip the Frog - V3 lily pad",
-      "url": "files/PIP_V3_lilypad.png",
-      "kind": "image",
-      "size": 104034,
-      "meta": "1600x1600 PNG",
-      "note": "Pip V3 sitting naturally on his lily pad. Same byte-identical markup as the front view.",
-      "added": "2026-11-13"
-    },
-    {
-      "name": "Pip the Frog - V3 front",
-      "url": "files/PIP_V3_front.png",
-      "kind": "image",
-      "size": 86012,
-      "meta": "1600x1600 PNG",
-      "note": "Pip V3 character front view. Rendered from reference-measured silhouette, exact stroked outline.",
-      "added": "2026-11-13"
-    },
-    {
-      "name": "Pip the Frog — Character Sheet v1",
-      "url": "files/pip_character_sheet.png",
-      "kind": "image",
-      "size": 201601,
-      "meta": "1920×1080 · 8 panels · vector master",
-      "note": "Turnaround (front / three-quarter / side / back) plus neutral, happy, sad and surprised busts. Drawn in code from the approved design sheet: fills only inside one filtered group, single union outline, no bitmap. Palette sampled from the reference swatches.",
-      "added": "2026-11-12"
     }
   ]
 }
