@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-13T06:00:54+00:00",
+  "updated": "2026-11-13T20:40:37+00:00",
   "files": [
-    {
-      "name": "Pip V5 - static C eyes closed",
-      "url": "files/PIP_V5_static_C_eyes_closed.png",
-      "kind": "image",
-      "size": 131005,
-      "meta": "1600x1600 PNG",
-      "note": "Validation render C: both eyes fully shut. Eye white and pupil scale to zero about the eye centre, lash line remains. No pupil, no white crescent, no green eyeball.",
-      "added": "2026-11-13"
-    },
     {
       "name": "Pip V5 - static B arm raised",
       "url": "files/PIP_V5_static_B_arm_raised.png",
