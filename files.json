@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:00:24+00:00",
+  "updated": "2026-11-13T06:00:32+00:00",
   "files": [
     {
       "name": "Pip the Frog - rig v2 key frames",
@@ -53,6 +53,15 @@
       "size": 154615,
       "meta": "1600x1600 PNG",
       "note": "Validation render A: every component assembled. 1 connected component, no enclosed gaps, belly intact.",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Pip V5 - 3s test (blink + wave)",
+      "url": "files/PIP_V5_test.mp4",
+      "kind": "video",
+      "size": 342628,
+      "meta": "3.0s / 1080x1080 / 24fps / h264",
+      "note": "All 72 frames verified: 1 component, 0 enclosed gaps, 0px white at any pivot, belly 43014-43036px, blink 178px to 0 with the pupil vanishing in lockstep, no motion spikes.",
       "added": "2026-11-13"
     }
   ]
