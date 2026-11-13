@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-13T06:00:46+00:00",
+  "updated": "2026-11-13T06:00:50+00:00",
   "files": [
-    {
-      "name": "Pip the Frog - rig v2 key frames",
-      "url": "files/PIP_V4_rig_v2_sheet.png",
-      "kind": "image",
-      "size": 524912,
-      "meta": "1488x1064 PNG",
-      "note": "Six key frames from the corrected animation.",
-      "added": "2026-11-13"
-    },
     {
       "name": "Pip the Frog - rig diagnostic joints",
       "url": "files/PIP_V4_diagnostic_joints.png",
