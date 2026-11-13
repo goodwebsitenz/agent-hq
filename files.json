@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T05:18:21+00:00",
+  "updated": "2026-11-13T05:18:25+00:00",
   "files": [
     {
       "name": "Pip the Frog — Character Sheet V2",
@@ -17,6 +17,15 @@
       "size": 581710,
       "meta": "3.0s · 1080x1080 · 24fps · h264",
       "note": "Joint fixes: eyelid clip on untransformed parent, lid travel 48% so white crescent and eye ring survive, limbs bridged into the torso and drawn behind it, shoulder/hip pivots inside the body, arm split into upper+forearm for a gentle elbow.",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Pip the Frog - rig diagnostic joints",
+      "url": "files/PIP_V4_diagnostic_joints.png",
+      "kind": "image",
+      "size": 119527,
+      "meta": "1200x1200 PNG",
+      "note": "Diagnostic render of the corrected rig: arm/hip pivots inside the torso, elbow cut lines, eyelid clip circles, limb bounds.",
       "added": "2026-11-13"
     },
     {
