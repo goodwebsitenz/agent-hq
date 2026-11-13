@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:00:19+00:00",
+  "updated": "2026-11-13T06:00:24+00:00",
   "files": [
     {
       "name": "Pip the Frog - rig v2 key frames",
@@ -26,6 +26,15 @@
       "size": 118716,
       "meta": "1200x1200 PNG",
       "note": "Diagnostic render of the corrected rig: arm/hip pivots inside the torso, elbow cut lines, eyelid clip circles, limb bounds.",
+      "added": "2026-11-13"
+    },
+    {
+      "name": "Pip V5 - static C eyes closed",
+      "url": "files/PIP_V5_static_C_eyes_closed.png",
+      "kind": "image",
+      "size": 131005,
+      "meta": "1600x1600 PNG",
+      "note": "Validation render C: both eyes fully shut. Eye white and pupil scale to zero about the eye centre, lash line remains. No pupil, no white crescent, no green eyeball.",
       "added": "2026-11-13"
     },
     {
