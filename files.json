@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T01:10:26+00:00",
+  "updated": "2026-11-14T01:10:31+00:00",
   "files": [
     {
       "name": "Pip the Frog — Who's Splashing? contact sheet",
@@ -17,6 +17,15 @@
       "size": 5861943,
       "meta": "20s · 1920x1080 · 24fps · h264/AAC · -16.3 LUFS",
       "note": "Full 20s cut: Pip, the fish, river, camera moves, expressions, dialogue, music + SFX. Audio sync verified.",
+      "added": "2026-11-14"
+    },
+    {
+      "name": "Pip key 2 — surprise at the splash",
+      "url": "files/key2_surprise_splash.png",
+      "kind": "image",
+      "size": 344453,
+      "meta": "1920x1080 · head close-up · 0.665",
+      "note": "Storyboard key 2 of 4: genuine startle, splash in frame right.",
       "added": "2026-11-14"
     },
     {
