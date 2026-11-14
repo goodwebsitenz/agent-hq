@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-14T00:10:20+00:00",
+  "updated": "2026-11-14T00:10:28+00:00",
   "files": [
+    {
+      "name": "Pip the Frog — Who's Splashing? contact sheet",
+      "url": "files/PIP_whos_splashing_12frames.png",
+      "kind": "image",
+      "size": 1228886,
+      "meta": "12 frames · evenly spaced · 0.83s intervals",
+      "note": "Contact sheet for the 20s cut, spanning all eight shots.",
+      "added": "2026-11-14"
+    },
     {
       "name": "Pip the Frog — Who's Splashing? (20s)",
       "url": "files/PIP_whos_splashing.mp4",
