@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-14T03:20:23+00:00",
+  "updated": "2026-11-14T03:20:27+00:00",
   "files": [
-    {
-      "name": "Pip scene 2 — surprise (approved rig)",
-      "url": "files/key2_surprise_splash.png",
-      "kind": "image",
-      "size": 421680,
-      "meta": "1920x1080 · close-up",
-      "note": "Re-rendered with approved Pip v1.",
-      "added": "2026-11-14"
-    },
     {
       "name": "Pip scene 1 — happy float (approved rig)",
       "url": "files/key1_happy_float.png",
