@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T02:34:11+00:00",
+  "updated": "2026-11-14T02:34:16+00:00",
   "files": [
     {
       "name": "Scene 3 vs scene 4 — composition comparison",
@@ -53,15 +53,6 @@
       "size": 368412,
       "meta": "1920x1080 · medium",
       "note": "Re-rendered with approved Pip v1.",
-      "added": "2026-11-14"
-    },
-    {
-      "name": "Pip polish report — what changed, what did not",
-      "url": "files/REPORT_pip_polish.md",
-      "kind": "doc",
-      "size": 4957,
-      "meta": "polish pass on baseline v1",
-      "note": "Both crease sources, the soft shadow, measured evidence the silhouette is unchanged, surprise channels table.",
       "added": "2026-11-14"
     },
     {
