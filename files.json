@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T00:10:28+00:00",
+  "updated": "2026-11-14T01:10:26+00:00",
   "files": [
     {
       "name": "Pip the Frog — Who's Splashing? contact sheet",
@@ -17,6 +17,15 @@
       "size": 5861943,
       "meta": "20s · 1920x1080 · 24fps · h264/AAC · -16.3 LUFS",
       "note": "Full 20s cut: Pip, the fish, river, camera moves, expressions, dialogue, music + SFX. Audio sync verified.",
+      "added": "2026-11-14"
+    },
+    {
+      "name": "Pip key 1 — happy float downstream",
+      "url": "files/key1_happy_float.png",
+      "kind": "image",
+      "size": 330543,
+      "meta": "1920x1080 · medium · right third",
+      "note": "Storyboard key 1 of 4: Pip floating happily, reeds and dragonfly filling frame left.",
       "added": "2026-11-14"
     },
     {
