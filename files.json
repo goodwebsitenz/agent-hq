@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T01:59:44+00:00",
+  "updated": "2026-11-14T01:59:48+00:00",
   "files": [
     {
       "name": "Pip — startle, polished (bust)",
@@ -17,6 +17,15 @@
       "size": 226168,
       "meta": "1920x1080 · happy · 80% of frame",
       "note": "Approved silhouette, unchanged. Technical creases removed: neck ring no longer stroked, limbs clipped out of the torso, soft contact shadow instead.",
+      "added": "2026-11-14"
+    },
+    {
+      "name": "Pip polish report — what changed, what did not",
+      "url": "files/REPORT_pip_polish.md",
+      "kind": "doc",
+      "size": 4957,
+      "meta": "polish pass on baseline v1",
+      "note": "Both crease sources, the soft shadow, measured evidence the silhouette is unchanged, surprise channels table.",
       "added": "2026-11-14"
     },
     {
