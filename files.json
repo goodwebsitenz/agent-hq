@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T20:41:13+00:00",
+  "updated": "2026-11-14T00:10:20+00:00",
   "files": [
+    {
+      "name": "Pip the Frog — Who's Splashing? (20s)",
+      "url": "files/PIP_whos_splashing.mp4",
+      "kind": "video",
+      "size": 5861943,
+      "meta": "20s · 1920x1080 · 24fps · h264/AAC · -16.3 LUFS",
+      "note": "Full 20s cut: Pip, the fish, river, camera moves, expressions, dialogue, music + SFX. Audio sync verified.",
+      "added": "2026-11-14"
+    },
     {
       "name": "Pip the Frog — Floating Downstream (12s test)",
       "url": "files/PIP_stream_test.mp4",
