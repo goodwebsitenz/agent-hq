@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T01:59:48+00:00",
+  "updated": "2026-11-14T01:59:52+00:00",
   "files": [
     {
       "name": "Pip — startle, polished (bust)",
@@ -26,15 +26,6 @@
       "size": 4957,
       "meta": "polish pass on baseline v1",
       "note": "Both crease sources, the soft shadow, measured evidence the silhouette is unchanged, surprise channels table.",
-      "added": "2026-11-14"
-    },
-    {
-      "name": "Pip corrections report — silhouette, eyes, startle, test status",
-      "url": "files/REPORT_pip_corrections.md",
-      "kind": "doc",
-      "size": 6124,
-      "meta": "approval pass 1",
-      "note": "Root causes, measurements off the delivered PNGs, the one deliberate test failure, and what is queued.",
       "added": "2026-11-14"
     }
   ]
