@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-14T01:10:49+00:00",
+  "updated": "2026-11-14T01:10:53+00:00",
   "files": [
+    {
+      "name": "Storyboard report — what was fixed and why",
+      "url": "files/REPORT_storyboard.md",
+      "kind": "doc",
+      "size": 4779,
+      "meta": "4 keys · root-cause notes",
+      "note": "Measured framing, invisible-brow fix, tongue fix, fish mirroring, honest caveats. For the ChatGPT review.",
+      "added": "2026-11-14"
+    },
     {
       "name": "Pip the Frog — Who's Splashing? contact sheet",
       "url": "files/PIP_whos_splashing_12frames.png",
