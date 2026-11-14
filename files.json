@@ -1,14 +1,4 @@
 {
-  "updated": "2026-11-14T03:20:32+00:00",
-  "files": [
-    {
-      "name": "Fish + scenes 3/4 report",
-      "url": "files/REPORT_fish_and_scenes.md",
-      "kind": "doc",
-      "size": 4959,
-      "meta": "versioned rig · waterline · gaze · scene diff",
-      "note": "Fingerprint proof for Pip v1, how submersion works, gaze residuals, the index-14 bug, test status.",
-      "added": "2026-11-14"
-    }
-  ]
+  "updated": "2026-11-14T03:20:36+00:00",
+  "files": []
 }
