@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-14T01:30:56+00:00",
+  "updated": "2026-11-14T01:31:04+00:00",
   "files": [
-    {
-      "name": "Storyboard report — what was fixed and why",
-      "url": "files/REPORT_storyboard.md",
-      "kind": "doc",
-      "size": 4779,
-      "meta": "4 keys · root-cause notes",
-      "note": "Measured framing, invisible-brow fix, tongue fix, fish mirroring, honest caveats. For the ChatGPT review.",
-      "added": "2026-11-14"
-    },
     {
       "name": "Pip — genuine startle close-up (approval 1)",
       "url": "files/PIP_pip_surprised.png",
