@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T01:10:31+00:00",
+  "updated": "2026-11-14T01:10:36+00:00",
   "files": [
     {
       "name": "Pip the Frog — Who's Splashing? contact sheet",
@@ -17,6 +17,15 @@
       "size": 5861943,
       "meta": "20s · 1920x1080 · 24fps · h264/AAC · -16.3 LUFS",
       "note": "Full 20s cut: Pip, the fish, river, camera moves, expressions, dialogue, music + SFX. Audio sync verified.",
+      "added": "2026-11-14"
+    },
+    {
+      "name": "Pip key 3 — the fish breaks the surface",
+      "url": "files/key3_fish_emerges.png",
+      "kind": "image",
+      "size": 298201,
+      "meta": "1920x1080 · two-shot · fish 3.8x",
+      "note": "Storyboard key 3 of 4: fish mirrored to face Pip, splash at the waterline.",
       "added": "2026-11-14"
     },
     {
