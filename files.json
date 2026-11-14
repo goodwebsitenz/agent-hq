@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T02:33:56+00:00",
+  "updated": "2026-11-14T02:34:01+00:00",
   "files": [
     {
       "name": "Scene 3 vs scene 4 — composition comparison",
@@ -44,6 +44,15 @@
       "size": 391878,
       "meta": "1920x1080 · FULL two-shot · fish right · submerged 28%",
       "note": "Fish half in the river with ripples at the body/waterline, splash crown, both characters making eye contact.",
+      "added": "2026-11-14"
+    },
+    {
+      "name": "Pip scene 2 — surprise (approved rig)",
+      "url": "files/key2_surprise_splash.png",
+      "kind": "image",
+      "size": 421680,
+      "meta": "1920x1080 · close-up",
+      "note": "Re-rendered with approved Pip v1.",
       "added": "2026-11-14"
     },
     {
