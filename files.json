@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-14T02:33:47+00:00",
+  "updated": "2026-11-14T02:33:52+00:00",
   "files": [
+    {
+      "name": "Scene 3 vs scene 4 — composition comparison",
+      "url": "files/cmp_3_vs_4.png",
+      "kind": "image",
+      "size": 325803,
+      "meta": "side by side",
+      "note": "Shows the staging flip and the change in shot size.",
+      "added": "2026-11-14"
+    },
     {
       "name": "Pip — startle, polished (bust)",
       "url": "files/PIP_pip_surprised.png",
