@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T03:20:59+00:00",
+  "updated": "2026-11-14T03:21:03+00:00",
   "files": [
     {
       "name": "Who's Splashing? — silent blocking pass",
@@ -17,6 +17,15 @@
       "size": 1971266,
       "meta": "16 panels evenly over 20.00s",
       "note": "One frame every 1.25s, sampled evenly so all four shots appear.",
+      "added": "2026-11-14"
+    },
+    {
+      "name": "Blocking pass report",
+      "url": "files/REPORT_blocking.md",
+      "kind": "doc",
+      "size": 7106,
+      "meta": "cleanup · measurements · open problems",
+      "note": "What was cleaned up (with before/after numbers) and the 8 visible problems still present.",
       "added": "2026-11-14"
     }
   ]
