@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T02:34:01+00:00",
+  "updated": "2026-11-14T02:34:06+00:00",
   "files": [
     {
       "name": "Scene 3 vs scene 4 — composition comparison",
@@ -71,6 +71,15 @@
       "size": 4957,
       "meta": "polish pass on baseline v1",
       "note": "Both crease sources, the soft shadow, measured evidence the silhouette is unchanged, surprise channels table.",
+      "added": "2026-11-14"
+    },
+    {
+      "name": "Fish + scenes 3/4 report",
+      "url": "files/REPORT_fish_and_scenes.md",
+      "kind": "doc",
+      "size": 4959,
+      "meta": "versioned rig · waterline · gaze · scene diff",
+      "note": "Fingerprint proof for Pip v1, how submersion works, gaze residuals, the index-14 bug, test status.",
       "added": "2026-11-14"
     }
   ]
