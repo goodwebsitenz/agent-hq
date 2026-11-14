@@ -1,15 +1,6 @@
 {
-  "updated": "2026-11-14T03:20:27+00:00",
+  "updated": "2026-11-14T03:20:32+00:00",
   "files": [
-    {
-      "name": "Pip scene 1 — happy float (approved rig)",
-      "url": "files/key1_happy_float.png",
-      "kind": "image",
-      "size": 368412,
-      "meta": "1920x1080 · medium",
-      "note": "Re-rendered with approved Pip v1.",
-      "added": "2026-11-14"
-    },
     {
       "name": "Fish + scenes 3/4 report",
       "url": "files/REPORT_fish_and_scenes.md",
