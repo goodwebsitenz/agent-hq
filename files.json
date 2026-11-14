@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T01:14:19+00:00",
+  "updated": "2026-11-14T01:30:48+00:00",
   "files": [
     {
       "name": "Storyboard report — what was fixed and why",
@@ -8,6 +8,15 @@
       "size": 4779,
       "meta": "4 keys · root-cause notes",
       "note": "Measured framing, invisible-brow fix, tongue fix, fish mirroring, honest caveats. For the ChatGPT review.",
+      "added": "2026-11-14"
+    },
+    {
+      "name": "Pip — corrected full body (approval 1)",
+      "url": "files/PIP_pip_fullbody.png",
+      "kind": "image",
+      "size": 137960,
+      "meta": "1920x1080 · happy · 80% of frame",
+      "note": "Bent hind legs outside the torso, separate arms, three toes, fully open eyes, no brow arcs.",
       "added": "2026-11-14"
     },
     {
