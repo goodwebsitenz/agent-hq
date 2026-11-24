@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:32:58+00:00",
+  "updated": "2026-11-24T14:33:03+00:00",
   "files": [
+    {
+      "name": "prodentim-08-side-rail.webp",
+      "url": "files/prodentim-08-side-rail.webp",
+      "kind": "image",
+      "size": 55706,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "ProDentim — Accent side rail (navy-cyan)",
+      "added": "2026-11-24"
+    },
     {
       "name": "prodentim-07-top-band.webp",
       "url": "files/prodentim-07-top-band.webp",
