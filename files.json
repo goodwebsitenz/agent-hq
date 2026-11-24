@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:33:03+00:00",
+  "updated": "2026-11-24T14:33:07+00:00",
   "files": [
+    {
+      "name": "prodentim-09-centre-rule.webp",
+      "url": "files/prodentim-09-centre-rule.webp",
+      "kind": "image",
+      "size": 51982,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "ProDentim — Headline split by rule (navy-cyan)",
+      "added": "2026-11-24"
+    },
     {
       "name": "prodentim-08-side-rail.webp",
       "url": "files/prodentim-08-side-rail.webp",
