@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:19:19+00:00",
+  "updated": "2026-11-24T14:19:24+00:00",
   "files": [
     {
       "name": "water-freedom-hero-plate.webp",
@@ -8,6 +8,15 @@
       "size": 169566,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "WFS hero 1 — vendor artwork, straight full frame",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "water-freedom-hero-navy.webp",
+      "url": "files/water-freedom-hero-navy.webp",
+      "kind": "image",
+      "size": 101552,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "WFS hero 4 — deep navy, title above, product below",
       "added": "2026-11-24"
     },
     {
