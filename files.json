@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T11:50:42+00:00",
+  "updated": "2026-11-24T11:50:50+00:00",
   "files": [
     {
       "name": "Water Freedom System — style: warm",
@@ -17,6 +17,15 @@
       "size": 153086,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "Baseline: true colour, light sharpen.",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "Water Freedom System — style: matte dark",
+      "url": "files/water-freedom-system-style-matte-dark.webp",
+      "kind": "image",
+      "size": 121550,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "Desaturated, lifted blacks, deep vignette — editorial.",
       "added": "2026-11-24"
     },
     {
