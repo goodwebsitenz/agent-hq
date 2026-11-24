@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:33:07+00:00",
+  "updated": "2026-11-24T14:33:11+00:00",
   "files": [
+    {
+      "name": "prodentim-10-diagonal.webp",
+      "url": "files/prodentim-10-diagonal.webp",
+      "kind": "image",
+      "size": 60336,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "ProDentim — Diagonal two-tone (navy-cyan)",
+      "added": "2026-11-24"
+    },
     {
       "name": "prodentim-09-centre-rule.webp",
       "url": "files/prodentim-09-centre-rule.webp",
