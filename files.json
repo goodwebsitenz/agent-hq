@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:19:10+00:00",
+  "updated": "2026-11-24T09:19:15+00:00",
   "files": [
     {
       "name": "Phytomem One — in-article lifestyle",
@@ -8,6 +8,15 @@
       "size": 42016,
       "meta": "4:3 · 1200x884 · WebP",
       "note": "In-body image: man doing a crossword in morning light — memory/focus context.",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "Phytomem One — in-article flat-lay",
+      "url": "files/phytomem_one_inline_flatlay.webp",
+      "kind": "image",
+      "size": 68510,
+      "meta": "4:3 · 1200x884 · WebP",
+      "note": "In-body image: bottle, pill organiser, notebook and oranges overhead.",
       "added": "2026-11-24"
     },
     {
