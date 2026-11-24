@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:13:31+00:00",
+  "updated": "2026-11-24T14:13:36+00:00",
   "files": [
+    {
+      "name": "water-freedom-hero-night.webp",
+      "url": "files/water-freedom-hero-night.webp",
+      "kind": "image",
+      "size": 57240,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "WFS hero 3/4 — deep navy, cyan rim light",
+      "added": "2026-11-24"
+    },
     {
       "name": "water-freedom-hero-kitchen.webp",
       "url": "files/water-freedom-hero-kitchen.webp",
