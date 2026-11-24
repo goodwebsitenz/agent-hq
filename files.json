@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:32:30+00:00",
+  "updated": "2026-11-24T14:32:35+00:00",
   "files": [
+    {
+      "name": "prodentim-02-split-left.webp",
+      "url": "files/prodentim-02-split-left.webp",
+      "kind": "image",
+      "size": 60028,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "ProDentim — Text left, product right (navy-cyan)",
+      "added": "2026-11-24"
+    },
     {
       "name": "prodentim-01-centred.webp",
       "url": "files/prodentim-01-centred.webp",
