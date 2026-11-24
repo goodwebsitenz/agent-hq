@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:19:10+00:00",
+  "updated": "2026-11-24T14:19:15+00:00",
   "files": [
     {
       "name": "water-freedom-hero-plate.webp",
@@ -8,6 +8,15 @@
       "size": 169566,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "WFS hero 1 — vendor artwork, straight full frame",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "water-freedom-hero-banner.webp",
+      "url": "files/water-freedom-hero-banner.webp",
+      "kind": "image",
+      "size": 80274,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "WFS hero 2 — light blue banner, headline left, product right",
       "added": "2026-11-24"
     }
   ]
