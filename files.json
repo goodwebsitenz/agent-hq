@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T11:50:54+00:00",
+  "updated": "2026-11-24T11:50:59+00:00",
   "files": [
     {
       "name": "Water Freedom System — style: warm",
@@ -26,6 +26,15 @@
       "size": 121550,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "Desaturated, lifted blacks, deep vignette — editorial.",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "Water Freedom System — style: macro detail",
+      "url": "files/water-freedom-system-style-macro.webp",
+      "kind": "image",
+      "size": 94324,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "Tight on guide + phone, badge and bonus grid dropped.",
       "added": "2026-11-24"
     },
     {
