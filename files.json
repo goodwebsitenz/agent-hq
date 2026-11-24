@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:32:39+00:00",
+  "updated": "2026-11-24T14:32:44+00:00",
   "files": [
+    {
+      "name": "prodentim-04-bottom-bar.webp",
+      "url": "files/prodentim-04-bottom-bar.webp",
+      "kind": "image",
+      "size": 39774,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "ProDentim — Product large, bottom bar (navy-cyan)",
+      "added": "2026-11-24"
+    },
     {
       "name": "prodentim-03-split-right.webp",
       "url": "files/prodentim-03-split-right.webp",
