@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:57:22+00:00",
+  "updated": "2026-11-24T13:57:27+00:00",
   "files": [
     {
       "name": "water-freedom-featured.webp",
@@ -8,6 +8,15 @@
       "size": 161362,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "WFS featured — vendor artwork (product-led)",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "water-freedom-featured-tap.webp",
+      "url": "files/water-freedom-featured-tap.webp",
+      "kind": "image",
+      "size": 34884,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "WFS featured — kitchen tap, water running",
       "added": "2026-11-24"
     },
     {
