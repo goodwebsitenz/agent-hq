@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T12:25:36+00:00",
+  "updated": "2026-11-24T12:25:41+00:00",
   "files": [
     {
       "name": "Water Freedom — scene: pouring water",
@@ -8,6 +8,15 @@
       "size": 33260,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "Real photo, CC BY 2.0 Shixart1985 (Wikimedia). Illustrative scene, not the product.",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "Water Freedom — scene: drawing water",
+      "url": "files/water-freedom-device-use.webp",
+      "kind": "image",
+      "size": 39580,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "Real photo: hand drawing water from an air-to-water machine. Third-party news photo — credit needed.",
       "added": "2026-11-24"
     },
     {
