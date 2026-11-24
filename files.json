@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:19:15+00:00",
+  "updated": "2026-11-24T09:25:07+00:00",
   "files": [
     {
       "name": "Phytomem One — in-article lifestyle",
@@ -26,6 +26,15 @@
       "size": 23780,
       "meta": "16:9 · 1200x685 · WebP",
       "note": "Editorial product shot for the Phytomem One review. Free Recraft V4.1 Flash V2 generation, compressed for web.",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "Phytomem One — featured (real packaging)",
+      "url": "files/phytomem_one_featured_real.webp",
+      "kind": "image",
+      "size": 44786,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "Vendor's real packaging composited onto an AI-generated set. Label is the vendor's own pixels, not AI text.",
       "added": "2026-11-24"
     }
   ]
