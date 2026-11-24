@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T11:50:50+00:00",
+  "updated": "2026-11-24T11:50:54+00:00",
   "files": [
     {
       "name": "Water Freedom System — style: warm",
@@ -26,6 +26,15 @@
       "size": 121550,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "Desaturated, lifted blacks, deep vignette — editorial.",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "Water Freedom System — style: high-key",
+      "url": "files/water-freedom-system-style-highkey.webp",
+      "kind": "image",
+      "size": 170474,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "White-lifted, punchy contrast, crisp studio look.",
       "added": "2026-11-24"
     },
     {
