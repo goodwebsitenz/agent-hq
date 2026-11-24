@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:32:11+00:00",
+  "updated": "2026-11-24T14:32:15+00:00",
   "files": [
     {
       "name": "prodentim-hero-4-oversized.webp",
@@ -17,15 +17,6 @@
       "size": 39726,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "ProDentim hero 3 — two bottles, headline in bottom scrim bar",
-      "added": "2026-11-24"
-    },
-    {
-      "name": "prodentim-hero-2-split.webp",
-      "url": "files/prodentim-hero-2-split.webp",
-      "kind": "image",
-      "size": 58352,
-      "meta": "16:9 · 1344x768 · WebP",
-      "note": "ProDentim hero 2 — split, text left column, product right",
       "added": "2026-11-24"
     }
   ]
