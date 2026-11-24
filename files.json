@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T13:44:34+00:00",
+  "updated": "2026-11-24T13:57:22+00:00",
   "files": [
+    {
+      "name": "water-freedom-featured.webp",
+      "url": "files/water-freedom-featured.webp",
+      "kind": "image",
+      "size": 161362,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "WFS featured — vendor artwork (product-led)",
+      "added": "2026-11-24"
+    },
     {
       "name": "Water Freedom System — inline: what's inside",
       "url": "files/water-freedom-system-inline-inside.webp",
