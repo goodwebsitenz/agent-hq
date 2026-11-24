@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:26:38+00:00",
+  "updated": "2026-11-24T14:32:11+00:00",
   "files": [
     {
       "name": "prodentim-hero-4-oversized.webp",
@@ -26,15 +26,6 @@
       "size": 58352,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "ProDentim hero 2 — split, text left column, product right",
-      "added": "2026-11-24"
-    },
-    {
-      "name": "prodentim-hero-1-centred.webp",
-      "url": "files/prodentim-hero-1-centred.webp",
-      "kind": "image",
-      "size": 45278,
-      "meta": "16:9 · 1344x768 · WebP",
-      "note": "ProDentim hero 1 — centred stack, kicker + headline above product",
       "added": "2026-11-24"
     }
   ]
