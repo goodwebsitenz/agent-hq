@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T09:44:35+00:00",
+  "updated": "2026-11-24T09:44:40+00:00",
   "files": [
+    {
+      "name": "Phytomem One — in-article still life",
+      "url": "files/phytomem_one_inline_flatlay.webp",
+      "kind": "image",
+      "size": 137592,
+      "meta": "4:3 · 1216x896 · WebP",
+      "note": "In-body image: notebook, pill organiser, oranges and glasses with the real packshot.",
+      "added": "2026-11-24"
+    },
     {
       "name": "Phytomem One — in-article lifestyle",
       "url": "files/phytomem_one_inline_lifestyle.webp",
