@@ -1,14 +1,4 @@
 {
-  "updated": "2026-11-24T09:44:16+00:00",
-  "files": [
-    {
-      "name": "Phytomem One — featured (real packaging)",
-      "url": "files/phytomem_one_featured_real.webp",
-      "kind": "image",
-      "size": 44786,
-      "meta": "16:9 · 1344x768 · WebP",
-      "note": "Vendor's real packaging composited onto an AI-generated set. Label is the vendor's own pixels, not AI text.",
-      "added": "2026-11-24"
-    }
-  ]
+  "updated": "2026-11-24T09:44:20+00:00",
+  "files": []
 }
