@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T11:50:27+00:00",
+  "updated": "2026-11-24T11:50:32+00:00",
   "files": [
     {
       "name": "Water Freedom System — style: natural",
@@ -8,6 +8,15 @@
       "size": 153086,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "Baseline: true colour, light sharpen.",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "Water Freedom System — style: cinematic",
+      "url": "files/water-freedom-system-style-cinematic.webp",
+      "kind": "image",
+      "size": 143804,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "Deep blue, -5% brightness, +12% contrast, corner vignette.",
       "added": "2026-11-24"
     },
     {
