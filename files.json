@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:18:50+00:00",
+  "updated": "2026-11-24T14:18:55+00:00",
   "files": [
     {
       "name": "water-freedom-hero-paper.webp",
@@ -17,15 +17,6 @@
       "size": 57240,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "WFS hero 3/4 — deep navy, cyan rim light",
-      "added": "2026-11-24"
-    },
-    {
-      "name": "water-freedom-hero-garden.webp",
-      "url": "files/water-freedom-hero-garden.webp",
-      "kind": "image",
-      "size": 66294,
-      "meta": "16:9 · 1344x768 · WebP",
-      "note": "WFS hero 2/4 — off-grid green, product tilted left",
       "added": "2026-11-24"
     }
   ]
