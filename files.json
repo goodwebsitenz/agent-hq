@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:26:08+00:00",
+  "updated": "2026-11-24T14:26:12+00:00",
   "files": [
     {
       "name": "water-freedom-hero-navy.webp",
@@ -8,15 +8,6 @@
       "size": 101552,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "WFS hero 4 — deep navy, title above, product below",
-      "added": "2026-11-24"
-    },
-    {
-      "name": "water-freedom-hero-catalogue.webp",
-      "url": "files/water-freedom-hero-catalogue.webp",
-      "kind": "image",
-      "size": 117048,
-      "meta": "16:9 · 1344x768 · WebP",
-      "note": "WFS hero 3 — white catalogue, centred, wide soft shadow",
       "added": "2026-11-24"
     }
   ]
