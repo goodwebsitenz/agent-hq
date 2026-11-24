@@ -1,4 +1,14 @@
 {
-  "updated": "2026-11-24T10:23:57+00:00",
-  "files": []
+  "updated": "2026-11-24T10:24:05+00:00",
+  "files": [
+    {
+      "name": "Phytomem One — featured (v2 integration)",
+      "url": "files/phytomem_one_featured_v2.webp",
+      "kind": "image",
+      "size": 47202,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "Real packshot integrated: perspective keystone, two-layer shadow with AO, light wrap, colour match, grain match.",
+      "added": "2026-11-24"
+    }
+  ]
 }
