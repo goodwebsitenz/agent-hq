@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T12:25:41+00:00",
+  "updated": "2026-11-24T12:25:46+00:00",
   "files": [
     {
       "name": "Water Freedom — scene: pouring water",
@@ -26,6 +26,15 @@
       "size": 81012,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "Real photo, CC BY 2.0 Shixart1985 (Wikimedia). Illustrative scene, not the product.",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "Water Freedom — scene: AWG unit",
+      "url": "files/water-freedom-device-awg.webp",
+      "kind": "image",
+      "size": 248030,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "Real photo of a commercial AWG. Carries SunToWater branding — caption must say it is not the guide's device.",
       "added": "2026-11-24"
     },
     {
