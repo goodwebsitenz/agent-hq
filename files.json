@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:13:26+00:00",
+  "updated": "2026-11-24T14:13:31+00:00",
   "files": [
     {
       "name": "water-freedom-hero-kitchen.webp",
@@ -8,6 +8,15 @@
       "size": 70472,
       "meta": "16:9 · 1344x768 · WebP",
       "note": "WFS hero 1/4 — warm interior, product tilted right",
+      "added": "2026-11-24"
+    },
+    {
+      "name": "water-freedom-hero-garden.webp",
+      "url": "files/water-freedom-hero-garden.webp",
+      "kind": "image",
+      "size": 66294,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "WFS hero 2/4 — off-grid green, product tilted left",
       "added": "2026-11-24"
     }
   ]
