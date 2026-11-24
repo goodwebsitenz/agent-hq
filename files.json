@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:32:54+00:00",
+  "updated": "2026-11-24T14:32:58+00:00",
   "files": [
+    {
+      "name": "prodentim-07-top-band.webp",
+      "url": "files/prodentim-07-top-band.webp",
+      "kind": "image",
+      "size": 51586,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "ProDentim — Solid top band (navy-cyan)",
+      "added": "2026-11-24"
+    },
     {
       "name": "prodentim-06-frame.webp",
       "url": "files/prodentim-06-frame.webp",
