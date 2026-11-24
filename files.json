@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:32:49+00:00",
+  "updated": "2026-11-24T14:32:54+00:00",
   "files": [
+    {
+      "name": "prodentim-06-frame.webp",
+      "url": "files/prodentim-06-frame.webp",
+      "kind": "image",
+      "size": 62450,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "ProDentim — Bracket frame (navy-cyan)",
+      "added": "2026-11-24"
+    },
     {
       "name": "prodentim-05-oversized.webp",
       "url": "files/prodentim-05-oversized.webp",
