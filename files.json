@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:32:44+00:00",
+  "updated": "2026-11-24T14:32:49+00:00",
   "files": [
+    {
+      "name": "prodentim-05-oversized.webp",
+      "url": "files/prodentim-05-oversized.webp",
+      "kind": "image",
+      "size": 77132,
+      "meta": "16:9 · 1344x768 · WebP",
+      "note": "ProDentim — Oversized bleed (navy-cyan)",
+      "added": "2026-11-24"
+    },
     {
       "name": "prodentim-04-bottom-bar.webp",
       "url": "files/prodentim-04-bottom-bar.webp",
