@@ -1,0 +1,112 @@
+Some links on this page are affiliate links. If you buy through one we may earn a commission, and you pay the same price. We are an independent publisher, not the seller. See our affiliate disclosure.
+
+## The verdict first
+
+If you build several projects a year and want one searchable place where the plan you need already exists, with a cut list attached, Teds Woodworking is a defensible $67. What you are buying is access to a large library, not a promise that every plan in it is worth building.
+
+If you have one project in mind, or you are new enough that you want to be taught rather than handed a drawing, don't buy it. A genuinely complete free plan exists and costs nothing; we walk through one below.
+
+## What $67 gets you, according to the seller
+
+Everything in this section comes from the sales page we loaded on 26 November 2026. These are the seller's claims, not findings of ours.
+- The library: “16,000 plans and projects”, described as searchable by keyword and filterable by category and difficulty.
+- What a plan contains: step-by-step instructions, cutting lists, materials lists and dimensioned drawings. This is the central promise, and it is the thing worth judging the purchase on.
+- Scope: the page lists ten categories with counts: Furniture 2,650+, Outdoor & Garden 2,150+, Workshop & Tools 1,850+, Buildings & Shelters 1,700+, Home Decor 1,650+, Specialty 1,500+, Storage & Organization 1,400+, Kitchen & Dining 1,250+, Kids & Recreation 1,100+ and Animal & Pet 800+. Add those up and you get 16,050.
+- Updates: new plans monthly at no extra charge, plus a custom plan request for projects that are not in the library.
+- Four bonuses: a DWG/CAD plan viewer ($47 claimed), 150 videos ($77 claimed), a guide to starting a woodworking business ($27 claimed) and a 200+ page reference PDF ($39 claimed).
+- Delivery: instant access to an online members area, or physical copies shipped for an additional fee.
+
+## Where the arithmetic goes soft
+
+The page explains how it arrived at 16,000. It is worth reading closely, because the numbers it gives do not add up to the number in the headline.
+
+The explanation runs: “a team of twelve. Full-time… Five new plans every week. Fifty weeks a year. Over two decades.” Five plans a week across fifty weeks is 250 a year. Twenty years of that is 5,000. Twenty-five years, which is the tenure used elsewhere on the page, gets you to 6,250. Reaching 16,000 at that rate would take about sixty-four years.
+
+A few sections later the page describes the monthly drop differently: “Every month, our workshop team builds 5-8 new projects from our workshop classes.” That is 60 to 96 a year, not 250.
+
+Two honest readings are possible. Either the team has been larger in the past than the twelve described today, or the library includes plans acquired rather than built in-house. The page does not say which. What it does say is that every plan was built and tested by that team, and that is the claim the arithmetic strains against.
+
+In fairness, the category counts are internally consistent. They add to 16,050, which is close enough to the headline to look deliberate rather than invented. The problem is not that the number is obviously false. It is that you cannot check it before paying, and the page's own explanation of it does not survive a calculator.
+
+## What a complete free plan actually looks like
+
+The usual argument for paying is that free plans are drawings with no measurements. That is sometimes true and sometimes the opposite of true, so here is a specific one instead of a generalisation.
+
+Ana White's 2x4 Outdoor Sofa is free, no account needed, and it includes:
+- A shopping list with quantities: 11 × 2x4x10′, 3 deep seat cushions at 24″ × 24″, and 150 exterior decking screws at 2-1/2″ to 3″.
+- A cut list with exact dimensions: 9 × 2x4 at 72″, 13 × 2x4 at 25-1/2″, 2 × 2x4 at 28-1/2″. It also explains how to adjust each one for a different cushion size, which is more useful than a fixed number.
+- A tool list: measuring tape, square, pencil, drill, compound mitre saw. Five items, all ordinary.
+- Eight numbered build steps with a diagram for each, then finishing instructions for paint, interior stain and exterior stain.
+- A metric toggle, so the same plan reads in millimetres.
+- 332 reader builds listed on the page, which is a form of evidence that the plan works in other people's garages.
+
+That is a complete plan. It is also, obviously, one plan. It is a furniture plan built from standard lumber, and it will not help you build a shed, a chicken coop or a router jig. Ana White's catalogue lists 1,761 plans as of 26 November 2026, mostly furniture and home builds, and the site also sells ad-free PDF bundles (six of those outdoor-furniture plans for $6) for people who want a tidy printable version.
+
+The useful comparison is not free versus paid. It is a well-made plan versus a badly made one, at any price. Free libraries have both. So do paid ones.
+
+## What the checkout actually charges
+
+The sales page advertises a one-time $67. The checkout is run by ClickBank, and when we opened it from New Zealand on 26 November 2026, the cart read:
+- Subtotal: NZ$135.85
+- GST: NZ$20.38
+- Total: NZ$156.23
+
+That is the number a New Zealand card gets charged. It reflects the USD price, a conversion margin and 15% GST, and it will move with the exchange rate. If you are buying from somewhere else, open the checkout and read your own total before you decide anything.
+
+The checkout also offers three additional products in one-click boxes: a jigs and fixtures guide at NZ$30.31, a hand tools guide at NZ$20.17, and a log home plan book at NZ$16.12. None of them are ticked by default. They are there because people click them, and a reader who ticks all three is looking at roughly NZ$223 rather than NZ$156.
+
+On the card statement the charge appears as CLKBANK*TedsPlans.
+
+One thing at checkout is better than the sales page suggests. The sales page advertises a 60-day money-back guarantee and says refunds are processed within 48 hours of an email. The ClickBank checkout states that it “will allow for the return or replacement of any product within 180 days from the date of purchase”. That is a longer window than the seller advertises, and it is the retailer's policy rather than the seller's promise, which is the stronger of the two.
+
+## Side by side
+
+What matters | Ana White (free) | Teds Woodworking | Woodsmith Plans (per plan)
+Cost | $0 | US$67; NZ$156.23 at checkout on 26 Nov 2026 | $12.95–$16.95 per plan
+Plans listed | 1,761 in the catalogue | 16,000 claimed; category counts add to 16,050 | No library; buy each project separately
+What one plan includes | Shopping list, cut list, tool list, illustrated steps, metric option (checked on the 2x4 sofa) | Cut list, materials list, dimensioned drawings, step-by-step, per the seller | Not described on the plan listings we checked
+Breadth | Furniture and home builds | Ten categories covering furniture through sheds and shop jigs | Catalogue is large but sold one plan at a time
+Twenty projects | $0 | One payment | Roughly $260–$340
+If a plan is missing | Build from the closest match, or adapt the cut list | Custom request, included per the seller | Keep buying until one fits
+Updates | New plans posted continuously | Monthly additions, no extra charge | As the magazines publish
+If it is wrong for you | Nothing lost | 180-day return through ClickBank, per the checkout | You paid for one plan
+
+## Where the library is strong, and where it is weak
+
+Strong: the format. One search box, one set of categories, one difficulty rating, instead of a dozen browser tabs and a Pinterest board. If you price your own time at anything, that is what the money buys. The breadth is real too. A free furniture library will not hand you a chicken coop, a deer stand and a router table in the same place, and this one claims to.
+
+Weak: you cannot see it first. The sales page publishes a handful of screenshots showing a dimensioned blueprint, a cutting list and step-by-step panels. Those screenshots look like real working drawings, and they are the seller's choice of what to show you. Beyond that, everything about quality inside the members area is unverified until you have paid.
+
+That is the whole gamble, and it is not a small one. A library that size, assembled over twenty-five years, will contain plans of wildly different ages and standards. The 180-day return is what makes the gamble survivable: long enough to open twenty plans, look at how they are drawn, and decide whether the house style suits you.
+
+## What we could not verify
+- The members area. It sits behind a login. We have not bought access for this article, so we cannot describe the interface, the search, or how the plans are filed beyond what the seller publishes.
+- Whether 16,000 plans exist in the form described. The category counts are consistent with the headline, but the seller's own explanation of how the number was reached does not produce it.
+- The quality of individual plans. The free sample pack of 50 plans requires an email address, and we did not submit one. The only plan pages we could inspect were the screenshots published on the sales page.
+- The testimonials. Named customers are quoted on the page, along with a quote attributed to American Woodworker Magazine. We could not trace any of them to a source we could check.
+- How fast a refund is actually paid. The 180-day window is stated by ClickBank at checkout. The claim that refunds are handled within 48 hours is the seller's, and we could not load ClickBank's own returns page to compare notes.
+- The “now $39/month” standard price. It appears only as a claim on the sales page. We found no second source for it, and no way to buy the monthly version and see what it costs.
+
+## Which one suits you
+
+You have a specific project in mind. Search for a free plan first, and look at what it gives you. If it has a cut list, a materials list and dimensioned drawings, you are done and you have saved $67. This is the most common case and the least interesting one to be sold.
+
+You are starting out and want to learn. A plan library is not tuition. It will not teach you to read a drawing, set up a saw or fix a joint that closed up. Buy a course, or work through free plans until the drawings make sense. The library becomes useful after that, not before.
+
+You build often, across different kinds of project, and you are tired of searching. This is who the product is for. If you would spend an evening hunting for a plan more than twice a year, and you want the cut list in a consistent format when you find it, the maths works in your favour. Twenty projects bought individually at Woodsmith prices would cost more than the library does.
+
+## The recommendation
+
+Buy it if the searching is the part you resent, you build regularly, and you are comfortable paying NZ$156 to find out whether the plans are drawn the way you like them, with 180 days to change your mind.
+
+Do not buy it as a beginner, as a substitute for learning, or to solve one project. In those cases the free option is not a compromise, it is the better answer, and the 2x4 sofa above is the proof: a shopping list, a cut list, a tool list and eight illustrated steps, for nothing.
+
+If you do want to look at the current offer, the seller's page and the checkout are here. Read the total in your own currency before you enter card details, and leave the three add-on boxes alone unless you actually want those books.
+
+## Sources
+- Teds Woodworking sales page, loaded 26 November 2026: pricing, category counts, guarantee wording, team and plan arithmetic.
+- ClickBank secure checkout for the offer, loaded 26 November 2026: NZ$ totals, GST, add-on products, 180-day return wording, statement descriptor.
+- Ana White plan catalogue and the 2x4 Outdoor Sofa plan page, loaded 26 November 2026: catalogue count, shopping and cut lists, tool list, step count, metric option, reader build count, PDF bundle price.
+- Woodsmith Plans, three individual plan pages loaded 26 November 2026: $12.95 and $16.95 price points.
+
+Last checked 26 November 2026. Prices, guarantees and page claims change without notice; if this page disagrees with the checkout, the checkout is right. Some links above are affiliate links — see the disclosure, and our methodology explains what we will and will not claim.
