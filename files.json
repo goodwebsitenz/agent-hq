@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T14:33:21+00:00",
+  "updated": "2026-11-26T10:14:15+00:00",
   "files": [
+    {
+      "name": "teds-woodworking-article-v1.txt",
+      "url": "files/teds-woodworking-article-v1.txt",
+      "kind": "doc",
+      "size": 9148,
+      "meta": "1,639 words · plain text · 26 Nov 2026",
+      "note": "Official Reviews: Teds Woodworking comparison article, full body text for review",
+      "added": "2026-11-26"
+    },
     {
       "name": "prodentim-12-cap-grid.webp",
       "url": "files/prodentim-12-cap-grid.webp",
