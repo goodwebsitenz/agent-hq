@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T20:08:41+00:00",
+  "updated": "2026-11-27T22:07:16+00:00",
   "files": [
+    {
+      "name": "Woodworking plans: one bench, three prices",
+      "url": "files/woodworking-plans-what-to-pay.txt",
+      "kind": "doc",
+      "size": 7875,
+      "meta": "text · 1,410 words · links stripped",
+      "note": "Live 28 Nov 2026 · guide type · officialreviews.net/woodworking-plans-what-to-pay/",
+      "added": "2026-11-27"
+    },
     {
       "name": "Teds Woodworking review — live version, 27 Nov 2026",
       "url": "files/teds-woodworking-review.txt",
