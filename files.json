@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-28T01:36:29+00:00",
+  "updated": "2026-11-28T01:36:33+00:00",
   "files": [
+    {
+      "name": "Septifix review",
+      "url": "files/septifix-review.txt",
+      "kind": "doc",
+      "size": 8559,
+      "meta": "text · 1,557 words · links stripped",
+      "note": "Live 28 Nov 2026. Pattern 4 title.",
+      "added": "2026-11-28"
+    },
     {
       "name": "Piano For All review",
       "url": "files/pianoforall-review.txt",
