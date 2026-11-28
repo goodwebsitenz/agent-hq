@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T01:36:25+00:00",
+  "updated": "2026-11-28T01:36:29+00:00",
   "files": [
     {
       "name": "Piano For All review",
@@ -8,6 +8,15 @@
       "size": 8933,
       "meta": "text · 1,587 words · links stripped",
       "note": "Live 28 Nov 2026. Pattern 8 title.",
+      "added": "2026-11-28"
+    },
+    {
+      "name": "InstaDoodle review",
+      "url": "files/instadoodle-review.txt",
+      "kind": "doc",
+      "size": 8779,
+      "meta": "text · 1,587 words · links stripped",
+      "note": "Live 28 Nov 2026. Pattern 6 title.",
       "added": "2026-11-28"
     },
     {
