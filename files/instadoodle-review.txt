@@ -1,0 +1,64 @@
+Some links on this page are affiliate links. If you buy through one we may earn a commission and you pay the same price. We are an independent publisher. Affiliate disclosure.
+
+InstaDoodle is a browser tool for making whiteboard-style explainer videos without an editor. You paste a script, an AI tool turns some of it into doodle drawings, and you arrange the result on a timeline. The company sells it as a one-time $27 purchase rather than a subscription, which is the reason it turns up in searches at all — the established tools in this category charge every month, forever.
+
+That price difference is real and so is the trade it hides. A permanent licence to a small tool buys you the version that exists now, from a company with no recurring revenue to fund the next one. Before you pay, three things are worth checking against the page, and each of them is something the page makes harder to find than it should be.
+
+## What $27 buys
+
+One payment, one product: the doodle video creator. The page lists 1,000+ doodle characters and elements, 14 project templates, an AI text-to-video generator it calls DoodleAI, colour video output, a built-in image editor with background removal, and support for any language you want to type in.
+
+The pitch on the product page is speed rather than craft. The company's claim is a finished explainer video in three steps — paste, generate, play — with no timeline scrubbing and no animation skill. The audience it names on the page is marketers, teachers, students, authors, podcasters and product developers, which is a polite way of saying anyone who needs a 60-second explainer and does not want to pay a freelancer for it.
+
+At the time we checked, the page quoted $117 as the normal price and $27 as a limited offer, along with a line saying a purchasing-power discount is applied by location. So the number you see may not be the number we saw. The cart, once you get to it, is the figure that counts.
+
+## How a video actually gets made
+
+You write or paste text. DoodleAI reads a prompt and returns a drawing that matches it — a lightbulb, a chart, a person shrugging — which you place on a slide. You repeat that until the script is covered, add a voice track, and export.
+
+The 1,000+ elements and the 14 templates matter more than they sound. The failure mode of every doodle tool is that the built-in library runs out: the fifth video starts looking like the first because there are only so many ways to draw "growth" and "problem". A thousand elements is a reasonable buffer for a solo creator and thin for an agency producing weekly.
+
+The colour update and background removal are the two features that separate this from the 2016 generation of whiteboard tools. Colour video was a paid upgrade in the older tools for years; background removal means you can drop a product photograph into a doodle scene without a Photoshop detour.
+
+What the page does not describe is the export pipeline. There is no stated resolution, no format list, no watermark policy for the base tier and no export cap written anywhere we could read. For a one-time-purchase tool, that is the detail that decides whether you can use it commercially, and its absence from the sales page is the strongest argument for opening the checkout terms before you pay rather than after.
+
+## Three things to check before you pay
+1. The guarantee is 30 days on the cart and 60 on the page. The sales page promises a 60-day, no-questions-asked money-back guarantee and adds that you keep the videos you made. The order page, on the same day, states a 30-day return window. Both cannot be right. We did not buy, so we cannot tell you which one a refund request is assessed under. Screenshot the order page with the date visible before you complete payment, and treat 30 days as the number you can point at.
+2. The add-on at checkout doubles the price. The order page offers one tick-box: six multilingual AI voices for $27.00. It is unticked by default, so the honest $27 total is available — but if your plan is to make videos in Spanish as well as English, the real cost of that plan is $54, and the page's "$27" headline does not include it. Decide before you look at the checkbox, not while you are looking at it.
+3. "One-time payment" buys the software as it is, not a promise. There is no subscription, which is the point. There is also no stated update policy, no seat count and no commercial licence summary on the page. If you are buying this as a business tool, ask support in writing what happens to your exports if the service is discontinued. It is a fair question for any subscription, and a more pointed one for a lifetime licence sold cheap.
+
+## How it compares with the tools that charge monthly
+
+ | InstaDoodle | Doodly | Animaker
+Price checked 28 Nov 2026 | $27.00 once | $19 / $49 / $79 a month; $190, $490 or $790 a year | $35 a month, or $19 a month paid yearly ($228)
+Year one cost | $27.00 | $190 at the entry annual tier | $228 at the yearly rate
+After year one | Nothing | Renews | Renews
+AI generation | DoodleAI from a text prompt | Script to scene, built on a hand-drawn asset library | Full character builder and stock video, not just doodles
+Best at | Cheap, fast whiteboard explainers | A large pre-drawn library and a mature editor | Anything that is not a doodle — characters, stock, motion
+Refund window | 60 days on the page, 30 on the cart | Stated per plan on its pricing page | Stated per plan on its pricing page
+
+Animaker plainly wins two rows: it does far more than doodles, and at $19 a month on the yearly rate it is the better tool for anyone making a living from video. That is not the comparison that matters here. Someone who needs four explainer videos a year for a course or a small business is not going to pay $228 annually for the privilege, and that buyer is who this product is priced for.
+
+## Who it suits, and who should not buy it
+
+It suits a teacher, course author, or small-business owner who needs a handful of explainer videos a year, has no editor, and wants to pay once. It suits anyone who already writes scripts and just needs pictures that move in time with them. It also suits the person who has been quoted $300–$800 for a single 60-second explainer and would rather spend $27 and an afternoon.
+
+Do not buy it if video is your product. No monthly fee also means no roadmap you can hold anyone to, and a tool that stops being updated is a tool you eventually leave. Do not buy it if you need brand-accurate characters or stock footage — that is Animaker's territory. And do not buy it for the multilingual voices unless you have already decided you need them, because they are the one thing on the order page that quietly turns $27 into $54.
+
+## Price and the conditions attached
+
+On 28 November 2026 we opened the order page with the country set to the United States. It held one line item at $27.00, with $0.00 tax — total $27.00, and one unticked add-on: six multilingual AI voices for $27.00.
+
+Access is immediate and delivered digitally. The guarantee block on the order page says 30 days; the sales page promises 60 and says you keep the videos. Given the conflict, the safe reading is 30 days, and the safe habit is to test the tool properly in the first fortnight — make one real video end to end, including the export, because that is where cheap tools usually disappoint.
+
+The page calls $27 a Black Friday price against $117, and it also applies a location-based discount. Neither the discount nor the deadline is something we can verify from outside; treat both as marketing and judge the $27 on whether the tool does the job.
+
+## Final thoughts
+
+InstaDoodle is a cheap, single-purpose tool sold at a price that makes the decision small. Three things decide whether it works for you: whether you can live with 30 days rather than 60 as your refund window, whether you need the voices add-on, and whether you are buying it to make a few videos or to build a video business.
+
+Answer those honestly and the product is straightforward. If you need a hundred videos a year, pay Animaker $19 a month and stop reading. If you need six, this costs less than two months of anything else.
+
+The current price and the order page are here.
+
+How this was researched: the price, the add-on and the guarantee wording were read from the live order page on 28 November 2026 with the country set to the United States. Feature lists, user numbers and the 60-day promise come from the company's own sales page, read the same day. We did not buy the tool, so we have not made a video in it, and nothing above describes the editor from use. Doodly and Animaker prices were taken from their own pricing pages on the same date.
